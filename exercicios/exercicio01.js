@@ -4,4 +4,4 @@ const idade = 18;
 const peso = 74
 const altura = 1.76
 const imc = peso / (altura * altura)
-console.log(imc);
+console.log;
